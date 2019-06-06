@@ -18,7 +18,7 @@ body {
   min-height: 100vh;
   background-repeat: no-repeat;
   background-size: cover;
-  font-family: 'Montserrat', Arial, serif;
+  font-family: "Montserrat", Arial, serif;
   filter: var(--filter);
 }
 
