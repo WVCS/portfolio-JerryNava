@@ -25,7 +25,8 @@ body {
 .center {
   width: 100%;
   display: flex;
-  justify-content: center;
+  justify-content: center !important;
+  align-items: center !important;
 }
 
 .hero {
